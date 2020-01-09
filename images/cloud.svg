@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="42px" height="42px" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>81CC96AF-3B93-430E-B1DC-AB4EE3CB6214</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <rect id="path-1" x="12.5669291" y="23.4705882" width="18.2047244" height="9.52941176"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="18.2047244" height="9.52941176" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <linearGradient x1="14.5389376%" y1="10.5924677%" x2="100%" y2="78.993227%" id="linearGradient-3">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#DFDFDF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="36.6611842%" y1="0%" x2="71.3157895%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#F0F0F0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="nav-bar" transform="translate(-36.000000, -6.000000)">
+            <g id="cloud">
+                <g transform="translate(36.000000, 6.000000)">
+                    <g>
+                        <use id="Rectangle-92-Copy" stroke="#979797" mask="url(#mask-2)" stroke-width="2" fill="#D8D8D8" xlink:href="#path-1"></use>
+                        <ellipse id="Oval-12-Copy-4" fill="url(#linearGradient-3)" transform="translate(21.469217, 18.713940) rotate(19.000000) translate(-21.469217, -18.713940) " cx="21.469217" cy="18.7139403" rx="9.32050463" ry="9.21568927"></ellipse>
+                        <path d="M25.6953094,20.764963 C27.0005348,19.4917385 28.7932771,18.7058824 30.7716535,18.7058824 C34.7637591,18.7058824 38,21.9057296 38,25.8529412 C38,29.8001528 34.7637591,33 30.7716535,33 L12.5669291,33 L25.6931441,20.7597441 L25.6953094,20.764963 Z" id="Combined-Shape" fill="url(#linearGradient-4)"></path>
+                        <path d="M19.3265611,19.3249275 C17.7588341,17.3371301 15.3138617,16.0588235 12.5669291,16.0588235 C7.83554482,16.0588235 4,19.8512351 4,24.5294118 C4,29.2075885 7.83554482,33 12.5669291,33 L30.7716535,33 L19.3265611,19.3249275 Z" id="Combined-Shape" fill="url(#linearGradient-5)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

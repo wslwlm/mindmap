@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qtmindmap.svg</file>
+        <file>help-browser.svg</file>
+        <file>user-trash-full.svg</file>
+        <file>x-office-calendar.svg</file>
+        <file>system-users.svg</file>
+        <file>dialog-warning.svg</file>
+        <file>mail-attachment.svg</file>
+        <file>applications-system.svg</file>
+        <file>dialog-information.svg</file>
+    </qresource>
+</RCC>

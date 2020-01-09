@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 40 (33762) - http://www.bohemiancoding.com/sketch -->
+    <title>AC850932-64C2-4DA3-B6C6-CBDBB749AD06</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#F6F4F4" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0.5" y="0.5" width="13" height="5" rx="0.5"></rect>
+        <mask id="mask-3" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="13" height="5" fill="white">
+            <use xlink:href="#path-2"></use>
+        </mask>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#2689F1" offset="0%"></stop>
+            <stop stop-color="#1D7FE6" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-5" x="0.5" y="9.5" width="13" height="5" rx="0.5"></rect>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="13" height="5" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="add-2.0" transform="translate(-48.000000, -288.000000)">
+            <g id="menu-copy-11" transform="translate(28.000000, 260.000000)">
+                <g id="Group" transform="translate(20.000000, 28.000000)">
+                    <g id="topic-after" transform="translate(3.000000, 2.000000)">
+                        <g id="Group-33">
+                            <use id="Rectangle-57" stroke="#ACACAC" mask="url(#mask-3)" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                            <use id="Rectangle-57-Copy" stroke="#1C69DA" mask="url(#mask-6)" fill="url(#linearGradient-4)" xlink:href="#path-5"></use>
+                            <path d="M8.16554944,7.32388347 C8.1673411,7.25608571 8.14269489,7.18682134 8.09059423,7.13472067 L6.33099904,5.37512549 C6.23070438,5.27483082 6.07099084,5.27340853 5.97335977,5.3710396 C5.87858398,5.46581539 5.87755801,5.62879123 5.97744565,5.72867888 L7.58224935,7.33348257 L5.97744565,8.93828627 C5.87715099,9.03858093 5.87572869,9.19829447 5.97335977,9.29592554 C6.06813555,9.39070133 6.2311114,9.3917273 6.33099904,9.29183966 L8.09059423,7.53224447 C8.14813749,7.47470121 8.17313395,7.39759846 8.16554944,7.32388347 Z" id="Combined-Shape-Copy" fill="#626262" transform="translate(7.034020, 7.332866) rotate(-270.000000) translate(-7.034020, -7.332866) "></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

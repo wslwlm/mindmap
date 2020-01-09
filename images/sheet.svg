@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 40 (33762) - http://www.bohemiancoding.com/sketch -->
+    <title>C71876FA-86D5-47B4-A4B8-9AF53FB26822</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#2689F1" offset="0%"></stop>
+            <stop stop-color="#1D7FE6" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-2" points="13 10 26 15 13 20 0 15"></polygon>
+        <mask id="mask-3" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="26" height="10" fill="white">
+            <use xlink:href="#path-2"></use>
+        </mask>
+        <linearGradient x1="50%" y1="3.28045281%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#EBF5FF" offset="0%"></stop>
+            <stop stop-color="#C3DBF3" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-5" points="13 5 26 10 13 15 0 10"></polygon>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="26" height="10" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-7">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#F6F4F4" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="640horizon" transform="translate(-343.000000, -2.000000)">
+            <g id="view-top-bar">
+                <g id="Group-5" transform="translate(343.000000, 2.000000)">
+                    <g id="sheet" transform="translate(7.000000, 9.500000)">
+                        <g id="Group-3">
+                            <use id="Polygon" stroke="#1C69DA" mask="url(#mask-3)" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                            <use id="Polygon" stroke="#2083EA" mask="url(#mask-6)" fill="url(#linearGradient-4)" xlink:href="#path-5"></use>
+                            <polygon id="Polygon" stroke="#ACACAC" stroke-width="0.5" fill="url(#linearGradient-7)" points="13 0 26 5 13 10 0 5"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

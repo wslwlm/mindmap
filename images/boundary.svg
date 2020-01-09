@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 40 (33762) - http://www.bohemiancoding.com/sketch -->
+    <title>2B31B064-6A53-49DA-B501-4C736516861A</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="3.28045281%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#F3F9FF" offset="0%"></stop>
+            <stop stop-color="#D9ECFF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M8,15.0024733 C8,14.4488226 8.43274403,13.8846016 8.96113585,13.7436971 L23,10 L31.0024554,10 C31.553384,10 32,10.4553056 32,10.9918031 L32,29.0081969 C32,29.5559546 31.5536886,30 31.0024554,30 L23,30 L8.96113585,26.2563029 C8.43031518,26.1147507 8,25.544239 8,24.9975267 L8,15.0024733 Z" id="path-2"></path>
+        <mask id="mask-3" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="24" height="20" fill="white">
+            <use xlink:href="#path-2"></use>
+        </mask>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#F6F4F4" offset="100%"></stop>
+        </linearGradient>
+        <path d="M11,19.0093689 C11,18.4519098 11.4530363,18 11.9970301,18 L18.0029699,18 C18.5536144,18 19,18.4433532 19,19.0093689 L19,20.9906311 C19,21.5480902 18.5469637,22 18.0029699,22 L11.9970301,22 C11.4463856,22 11,21.5566468 11,20.9906311 L11,19.0093689 Z M23,14.5 L29,14.5 L29,18.5 L23,18.5 L23,14.5 Z M23,21.5 L29,21.5 L29,25.5 L23,25.5 L23,21.5 Z" id="path-5"></path>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="18" height="11" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="snowbrush_sidebar&amp;menu" transform="translate(-646.000000, -8.000000)">
+            <g id="nav-bar">
+                <g id="boundary">
+                    <g transform="translate(646.000000, 8.000000)">
+                        <rect id="ic-boundary" x="8" y="8" width="24" height="24"></rect>
+                        <use id="Rectangle-13" stroke="#2083EA" mask="url(#mask-3)" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                        <path d="M21,19.75 L18.5,19.75 L18.5,20.25 L21,20.25 L21,24 L21.5,24 L21.5,16 L21,16 L21,19.75 Z M21.5,16 L23.5,16 L23.5,16.5 L21.5,16.5 L21.5,16 Z M21.5,23.5 L23.5,23.5 L23.5,24 L21.5,24 L21.5,23.5 Z" id="Combined-Shape" fill="#ACACAC"></path>
+                        <use id="Combined-Shape" stroke="#ACACAC" mask="url(#mask-6)" fill="url(#linearGradient-4)" xlink:href="#path-5"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

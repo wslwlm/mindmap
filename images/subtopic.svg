@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 40 (33762) - http://www.bohemiancoding.com/sketch -->
+    <title>C77CD5ED-92C8-4795-92C3-2FA91E33C7E4</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="16"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="16" height="16" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#F6F4F4" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-4" x="0" y="1" width="10" height="5" rx="0.5"></rect>
+        <mask id="mask-5" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="10" height="5" fill="white">
+            <use xlink:href="#path-4"></use>
+        </mask>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-6">
+            <stop stop-color="#2689F1" offset="0%"></stop>
+            <stop stop-color="#1D7FE6" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-7" x="6" y="8" width="10" height="6" rx="0.5"></rect>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="10" height="6" fill="white">
+            <use xlink:href="#path-7"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="add-2.0" transform="translate(-48.000000, -323.000000)">
+            <g id="menu-copy-11" transform="translate(28.000000, 260.000000)">
+                <g id="topic-after" transform="translate(20.000000, 63.000000)">
+                    <g id="subtopic" transform="translate(2.000000, 2.000000)">
+                        <use id="ic-subtopic" stroke="#979797" mask="url(#mask-2)" stroke-width="2" fill="#D8D8D8" opacity="0" xlink:href="#path-1"></use>
+                        <use id="Rectangle-57" stroke="#ACACAC" mask="url(#mask-5)" fill="url(#linearGradient-3)" xlink:href="#path-4"></use>
+                        <use id="Rectangle-57-Copy" stroke="#1C69DA" mask="url(#mask-8)" fill="url(#linearGradient-6)" xlink:href="#path-7"></use>
+                        <path d="M4.38842468,10.9400024 L1,10.9400024 L1,10.4700012 L1,7 L1.5,7 L1.5,10.4400024 L4.39001465,10.4400024 L3.03441597,9.08440376 C2.93452833,8.98451612 2.9355543,8.82154028 3.03033009,8.72676449 C3.12796116,8.62913342 3.2876747,8.63055571 3.38796936,8.73085037 L5.14756455,10.4904456 C5.19966521,10.5425462 5.22431142,10.6118106 5.22251976,10.6796084 C5.23010427,10.7533233 5.20510781,10.8304261 5.14756455,10.8879694 L3.38796936,12.6475645 C3.28808172,12.7474522 3.12510587,12.7464262 3.03033009,12.6516504 C2.93269901,12.5540194 2.93412131,12.3943058 3.03441597,12.2940112 L4.38842468,10.9400024 Z" id="Combined-Shape" fill="#626262"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 40 (33762) - http://www.bohemiancoding.com/sketch -->
+    <title>1CAB1D55-8F86-487F-BC43-6B2B4C2A96EB</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#F6F4F4" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="2" y="4" width="16" height="13" rx="1.4976"></rect>
+        <mask id="mask-3" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="16" height="13" fill="white">
+            <use xlink:href="#path-2"></use>
+        </mask>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-4">
+            <stop stop-color="#676767" offset="0%"></stop>
+            <stop stop-color="#888888" offset="100%"></stop>
+        </linearGradient>
+        <path d="M14.2328453,8.46838235 C14.9318307,8.46838235 15.4984703,7.91581614 15.4984703,7.23419118 C15.4984703,6.55256621 14.9318307,6 14.2328453,6 C13.5338599,6 12.9672203,6.55256621 12.9672203,7.23419118 C12.9672203,7.91581614 13.5338599,8.46838235 14.2328453,8.46838235 Z M16.4984703,14.3925 L7.27539062,14.3925 C7.27834532,14.3925 11.460297,9.02386478 11.8869304,9.02386475 C12.3135639,9.02386472 16.4984703,14.3925 16.4984703,14.3925 Z M8.08074951,12.8808594 C7.8425293,13.2163696 7.27539062,13.8903198 6.87189137,14.3924999 L3.5,14.3924999 C3.5,14.3924999 6.18206454,11.1013236 6.44389976,11.1013235 C6.58059493,11.1013235 7.34597522,12.0234274 8.08074951,12.8808594 Z" id="path-5"></path>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12.9984703" height="8.3925" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="add-2.0" transform="translate(-48.000000, -92.000000)">
+            <g id="menu-copy-7" transform="translate(28.000000, 29.000000)">
+                <g id="Group-5" transform="translate(20.000000, 63.000000)">
+                    <use id="Rectangle-path" stroke="#ACACAC" mask="url(#mask-3)" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                    <use id="Combined-Shape" stroke="#585858" mask="url(#mask-6)" fill="url(#linearGradient-4)" xlink:href="#path-5"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

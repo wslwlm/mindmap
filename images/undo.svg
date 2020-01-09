@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 40 (33762) - http://www.bohemiancoding.com/sketch -->
+    <title>8A89391C-55B4-4BAF-8D6B-DDE1B4DB4DF7</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#676767" offset="0%"></stop>
+            <stop stop-color="#888888" offset="100%"></stop>
+        </linearGradient>
+        <path d="M19.9998036,20.6368967 L19.9998036,25 L10.9998036,17.5 L19.9998036,10 L19.9998036,14.4500548 C20.4845294,14.3516471 20.9862318,14.2999878 21.5,14.2999878 C25.6421356,14.2999878 29,17.6578522 29,21.7999878 C29,25.6388696 26.1158091,28.8041125 22.3961406,29.2470033 L22.3961406,29.2470033 C23.9688254,28.1652848 25,26.3530581 25,24.2999878 L24.9645556,24.2999878 C24.987914,24.1366863 25,23.9697485 25,23.7999878 C25,21.8669912 23.4329966,20.2999878 21.5,20.2999878 C20.963124,20.2999878 20.4544812,20.4208681 19.9998036,20.6368967 Z" id="path-2"></path>
+        <mask id="mask-3" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="18.0001964" height="19.2470033" fill="white">
+            <use xlink:href="#path-2"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="snowbrush_sidebar&amp;menu" transform="translate(-384.000000, -8.000000)" fill="url(#linearGradient-1)" stroke="#585858">
+            <g id="nav-bar">
+                <g id="undo">
+                    <g transform="translate(404.000000, 28.000000) scale(-1, 1) translate(-404.000000, -28.000000) translate(384.000000, 8.000000)">
+                        <use id="Combined-Shape" mask="url(#mask-3)" transform="translate(19.999902, 19.623502) scale(-1, 1) translate(-19.999902, -19.623502) " xlink:href="#path-2"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
